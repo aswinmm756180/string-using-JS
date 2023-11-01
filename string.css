@@ -1,0 +1,37 @@
+.container{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: auto;
+    background-color: rgb(31, 221, 116);
+    border-radius: 10px;
+
+}
+.container:hover{
+    background-color: rgb(192, 135, 180);
+}
+body{
+    background-color: aquamarine;
+}
+.string{
+    height: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font: 100;
+    background-color: black;
+    color: antiquewhite;
+    border: 0cap;
+}
+.btn{
+    background-color: rgb(154, 231, 231);
+    border-radius: 4px;
+}
+.btn:hover{
+    background-color: rgb(16, 245, 43);
+}
+h2{
+    text-align: center;
+    color: red;
+}
+h3{
+    color: rgb(15, 11, 236);
+}
